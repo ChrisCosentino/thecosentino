@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/thecosentino/static/css/main.b62d2885.chunk.css",
-    "main.js": "/thecosentino/static/js/main.2a32351b.chunk.js",
-    "main.js.map": "/thecosentino/static/js/main.2a32351b.chunk.js.map",
+    "main.js": "/thecosentino/static/js/main.b232ab69.chunk.js",
+    "main.js.map": "/thecosentino/static/js/main.b232ab69.chunk.js.map",
     "runtime-main.js": "/thecosentino/static/js/runtime-main.36dbb443.js",
     "runtime-main.js.map": "/thecosentino/static/js/runtime-main.36dbb443.js.map",
-    "static/js/2.b54b55f9.chunk.js": "/thecosentino/static/js/2.b54b55f9.chunk.js",
-    "static/js/2.b54b55f9.chunk.js.map": "/thecosentino/static/js/2.b54b55f9.chunk.js.map",
+    "static/js/2.6fecf20e.chunk.js": "/thecosentino/static/js/2.6fecf20e.chunk.js",
+    "static/js/2.6fecf20e.chunk.js.map": "/thecosentino/static/js/2.6fecf20e.chunk.js.map",
     "index.html": "/thecosentino/index.html",
-    "precache-manifest.5a4d9bff29da31ac2fb5fa05cd3501c8.js": "/thecosentino/precache-manifest.5a4d9bff29da31ac2fb5fa05cd3501c8.js",
+    "precache-manifest.ec9cc90c94620f9b5f7132ee824c56f6.js": "/thecosentino/precache-manifest.ec9cc90c94620f9b5f7132ee824c56f6.js",
     "service-worker.js": "/thecosentino/service-worker.js",
     "static/css/main.b62d2885.chunk.css.map": "/thecosentino/static/css/main.b62d2885.chunk.css.map",
-    "static/js/2.b54b55f9.chunk.js.LICENSE.txt": "/thecosentino/static/js/2.b54b55f9.chunk.js.LICENSE.txt"
+    "static/js/2.6fecf20e.chunk.js.LICENSE.txt": "/thecosentino/static/js/2.6fecf20e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36dbb443.js",
-    "static/js/2.b54b55f9.chunk.js",
+    "static/js/2.6fecf20e.chunk.js",
     "static/css/main.b62d2885.chunk.css",
-    "static/js/main.2a32351b.chunk.js"
+    "static/js/main.b232ab69.chunk.js"
   ]
 }
