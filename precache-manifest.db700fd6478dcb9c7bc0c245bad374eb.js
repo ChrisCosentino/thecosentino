@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "156174a4f4d78d19d21cb7dbc649ec36",
+    "revision": "e82e9fd3c0d6772385349c82a04238aa",
     "url": "/thecosentino/index.html"
   },
   {
-    "revision": "1d228424e8eade2c0abf",
+    "revision": "1961ec88f9150012bd86",
     "url": "/thecosentino/static/css/main.b62d2885.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thecosentino/static/js/2.8390e267.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d228424e8eade2c0abf",
-    "url": "/thecosentino/static/js/main.b2075126.chunk.js"
+    "revision": "1961ec88f9150012bd86",
+    "url": "/thecosentino/static/js/main.10f32d23.chunk.js"
   },
   {
     "revision": "0e5d86debd707cc798d1",
