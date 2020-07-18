@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thecosentino/precache-manifest.db700fd6478dcb9c7bc0c245bad374eb.js"
+  "/thecosentino/precache-manifest.6e3340d338f20c60d9d1198b9bb0bd26.js"
 );
 
 self.addEventListener('message', (event) => {
